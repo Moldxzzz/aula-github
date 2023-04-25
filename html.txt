@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta name="description" content="Divulgamos música de artistas inciantes.">
+<meta name="author" contet="Flavio Jacob">
+<meta charset="UTF-8"/>
+<title>Mundodamusica.com</title>
+       </head>
+
+       <body bgcolor="#ADD8E6">
+		<h1><center><font color="black">Mundo da Música</h1></font>
+		<b><font color="black"><center>Seja bem vindo, somos um empresa de divulgação musical,aqui divulgamos artistas que estão começando agora no meio musical</center></font></b>
+		
+		<img src="https://cdn.pixabay.com/photo/2013/07/13/12/17/headphone-159569_640.png" width="300px" align="right" > 
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+               
+                
+                <h3><center><button type="submit">Categorias</h3></button>
+                <br>
+                <h3><center><button type="submit">Sobre</h3></button>
+                <br>
+                <h3><center><button type="submit">Contatos</h3></button >
+
+</body>
+</html>
